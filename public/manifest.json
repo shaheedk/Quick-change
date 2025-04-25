@@ -12,11 +12,9 @@
       "default_popup": "index.html"
     },
     "permissions":[
-      "scripting"
+      "scripting",
+      "activeTab"
     ],
-    "host_permissions":[
-      "http://*/*",
-       "https://*/*"
-    ]
+   "host_permissions": ["http://*/*", "https://*/*"]
   }
   
